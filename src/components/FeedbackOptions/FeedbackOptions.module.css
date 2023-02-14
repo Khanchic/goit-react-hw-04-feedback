@@ -1,0 +1,16 @@
+.buttons {
+    display: flex;
+    gap: 30px;
+    margin-right: auto;
+}
+.buttonItem:hover{
+    background-color: #038412;
+    color: #fff;
+    text-transform: unset;
+}
+.buttonItem{
+    padding: 8px;
+    background-color: #fff;
+    border-radius: 8px;
+    border: 2px solid rgba(185, 185, 224, 0.2);
+}

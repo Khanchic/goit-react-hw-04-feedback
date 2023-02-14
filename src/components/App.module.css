@@ -1,0 +1,12 @@
+
+
+
+.feedbackContainer{
+    font-size: 45px;
+    margin: 50px auto;
+    width: 600px;
+    border: 1px solid #061578;
+    background-color: azure;
+    border-radius: 20px;
+    padding: 10px;
+}
